@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-projets/pod-semaine-de-valkann/semaine-de-valkann/","title":"Articles","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projets/pod-semaine-de-valkann/semaine-de-valkann/","title":"Semaine de Valkann","tags":["gardenEntry"]}
 ---
 
 
-# Articles
+# Semaine de Valkann
+
+## Articles
 
 | File                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -18,7 +20,7 @@
 
 { .block-language-dataview}
 
-# Ressources hebdo
+## Ressources hebdo
 
 | File                                        |
 | ------------------------------------------- |
