@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projets/pod-semaine-de-valkann/semaine-de-valkann/","title":"Semaine de Valkann","tags":["gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projets/pod-semaine-de-valkann/semaine-de-valkann/","title":"Semaine de Valkann","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 

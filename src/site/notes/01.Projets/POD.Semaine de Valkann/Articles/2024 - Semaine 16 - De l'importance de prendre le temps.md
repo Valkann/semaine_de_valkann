@@ -72,7 +72,11 @@ En fin de compte, je réalise que la solution n'est pas de trouver un moyen de g
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
+
+^_dummy!_
+
 
 2024 - Semaine 16 - De l'importance de prendre le temps
 { #ZKBaxjrG}
@@ -98,10 +102,10 @@ Références
 { #YTzgtH61}
 
 
-# Element Links
+## Element Links
 0sODqnCf: [[Sources/Ce que j'ai lu/La semaine de 4 heures#La Semaine De 4 Heures\|La semaine de 4 heures#La Semaine De 4 Heures]]
 
-# Embedded files
+## Embedded Files
 49cd0e7a54d34fcef701befee6651021a5379e26: [[Concept.png]]
 a14b7b6dff3c3998796cfbd9a10cf454b83a0ec3: [[Book.png]]
 70671b62696fa2716f596fc84f208a855245bd3e: [[Cartes/Slow Gaming\|Slow Gaming]]
